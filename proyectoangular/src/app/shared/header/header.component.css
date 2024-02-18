@@ -39,5 +39,6 @@ header .nav-links{      /* de la viñeta quitar esos punticos*/
 
 .header .nav-links li a:hover{ /* es cando pasa el raton por eso es hover*/
      color:#CF6A8C;
-}
+
+    }
 
