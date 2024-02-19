@@ -3,7 +3,7 @@
     border-radius: 0 0 15px 15px;   /*bordecito*/
     display: flex;  /*organizar todo lo que esta adentro del header*/
     justify-content: center;  /*para centrar*/
-    height: 85px;
+    height: 40px;
     padding: 5px 10%;  /*relleno del cuadrito */
 }
 .header .logo {
@@ -31,7 +31,7 @@ header .nav-links{      /* de la viñeta quitar esos punticos*/
     transform: scale(1.4);
 }
 .header .nav-links a {
-    font-size: 14px;
+    font-size: 20px;
     color: #F1EFF1;
     text-decoration: none;
    
@@ -39,6 +39,5 @@ header .nav-links{      /* de la viñeta quitar esos punticos*/
 
 .header .nav-links li a:hover{ /* es cando pasa el raton por eso es hover*/
      color:#CF6A8C;
-
     }
 
